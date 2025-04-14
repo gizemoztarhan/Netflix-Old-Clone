@@ -22,4 +22,4 @@ Bu proje, Netflix'in ana sayfasını taklit eden bir HTML/CSS çalışmasıdır.
 
 ## 📷 Ekran Kaydı
 
-![Ekran Kaydı](images\Kayt2025-04-14195827-ezgif.com-video-to-gif-converter.gif)
+![Ekran Kaydı](images/Kayt2025-04-14195827-ezgif.com-video-to-gif-converter.gif)
